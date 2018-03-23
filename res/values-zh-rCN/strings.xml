@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CaptureScreen</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="screenshot_saving_ticker">"正在保存屏幕截图..."</string>
+    <string name="screenshot_saving_title">"正在保存屏幕截图..."</string>
+    <string name="screenshot_saving_text">"正在保存屏幕截图。"</string>
+    <string name="screenshot_saved_title">"已抓取屏幕截图。"</string>
+    <string name="screenshot_saved_text">"触摸可查看您的屏幕截图。"</string>
+</resources>

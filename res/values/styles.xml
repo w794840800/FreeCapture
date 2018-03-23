@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="@android:style/Theme.Holo.Light.NoActionBar.Fullscreen">
+        <!-- Customize your theme here. -->
+        <!-- 设置全屏-->
+        <item name="android:windowFullscreen">true</item>
+        <!-- 设置无标题-->
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <!--<item name="android:windowTranslucentNavigation">true</item>
+        <item name="android:fitsSystemWindows">false</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>-->
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowCloseOnTouchOutside">false</item>
+
+    </style>
+
+    <style name="CaptureTheme" parent="@android:style/Theme.Translucent.NoTitleBar.Fullscreen">
+        <!-- Customize your theme here. -->
+        <!-- 设置全屏-->
+        <item name="android:windowFullscreen">true</item>
+        <!-- 设置无标题-->
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+</resources>
